@@ -11,4 +11,8 @@ tecnologias
 -blade templates
 -composer
 
-repositorio del GitHub:
+¿como funciomo el laravel?
+Laravel es un framework de PHP que facilita el desarrollo de aplicaciones web.
+Permite trabajar con una estructura ordenada (MVC), crear rutas, manejar bases de datos, validaciones y seguridad de forma rápida y sencilla.
+
+repositorio del GitHub: https://github.com/MinervaRubi/agenda.git
